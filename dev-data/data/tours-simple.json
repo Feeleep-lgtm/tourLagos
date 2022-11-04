@@ -1,0 +1,100 @@
+[
+  {
+    "id": 0,
+    "name": "The Nike center for Art and Culture",
+    "duration": 2,
+    "groupSize": 5,
+    "ratingsAverage": 4.7,
+    "ratingsQuantity": 37,
+    "price": 1000,
+    "summary": "Nike art Galley was founded by a legend known as Oyenike Monica Okundaye",
+    "description": "This is the place of a unique art gallery, workshop, and artist retreat."
+  },
+
+  
+  
+
+  {
+    "id": 2,
+    "name": "Freedom park, Lagos",
+    "duration": 2,
+    "groupSize": 10,
+    "ratingsAverage": 4.5,
+    "ratingsQuantity": 13,
+    "price": 1000,
+    "summary": "This park is a leisure and memorial park here in Lagos Island",
+    "description": "The park was formerly broad street prison to her Majesty. It was constructed to preserve the cultural heritage and history of Nigerians purposely. "
+  },
+
+  {
+    "id": 3,
+    "name": "Tarkwa Bay Beach",
+    "duration": 4,
+    "groupSize": 10,
+    "ratingsAverage": 4.6,
+    "ratingsQuantity": 54,
+    "price":2000,
+    "summary": "This is a sheltered beach near Lagos Harbor",
+    "description": "Tarkwa is a popular place with water sports and swimmers enthusiasts. And also, it is the main home of welcoming the resident community."
+  },
+
+  {
+    "id": 4,
+    "name": "National museum",
+    "duration": 2,
+    "groupSize": 20,
+    "ratingsAverage": 4.5,
+    "ratingsQuantity": 19,
+    "price": 1000,
+    "summary": "The national museum is in Onikan Lagos and was established back in 1957 before Nigeria gained independence",
+    "description": " Essentially, this national museum is among the top-rated tourist attraction in Lagos. The place has great and attractive collections in ethnography, archaeology, and traditional art."
+  },
+
+  {
+    "id": 5,
+    "name": "Hi-impact planet",
+    "duration": 4,
+    "groupSize": 15,
+    "ratingsAverage": 4.7,
+    "ratingsQuantity": 28,
+    "price": 2000,
+    "summary": "The hi-impact planets provide world-class fun for both old and young tourists.",
+    "description": "Here you will enjoy the unique rides, games, and other types of entertaining attractions."
+  },
+
+  {
+    "id": 6,
+    "name": "Badagry",
+    "duration": 7,
+    "groupSize": 8,
+    "ratingsAverage": 4.5,
+    "ratingsQuantity": 35,
+    "price": 5000,
+    "summary": "Badagry subsists largely on fishing and agriculture and maintains a small museum of slavery.",
+    "description": "The Badagry Black Heritage Museum housed in the former district officer's office built in 1863, holds hundreds of artifacts and historical relics that chronicle more than 300 years of the movement of slaves through Lagos."
+  },
+
+  {
+    "id": 7,
+    "name": "GET arena",
+    "duration": 2,
+    "groupSize": 5,
+    "ratingsAverage": 4.7,
+    "ratingsQuantity": 28,
+    "price": 2500,
+    "summary": "Worried about what fun spots in Lagos to visit? The GET arena would be an awesome choice.",
+    "description": "Go-karting is a typical example of a break from the norm and children will also attest to this while they enjoy it. "
+  },
+
+  {
+    "id": 8,
+    "name": "La Campagne Tropicana Beach Resort",
+    "duration": 3,
+    "groupSize": 10,
+    "ratingsAverage": 4.9,
+    "ratingsQuantity": 33,
+    "price": 2000,
+    "summary": "A great escape from the regular Lagos hustle and bustle and a great place to wind off during the weekends or holidays",
+    "description": "This is a private beach resort located at Ikegun Ibeju, Lekki. It prides itself in intricate African designs, hospitable staff, and iconic views."
+  }
+]
